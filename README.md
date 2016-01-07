@@ -1,0 +1,2 @@
+# openscience
+[project] openscience.lol
