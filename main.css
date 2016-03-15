@@ -1,12 +1,18 @@
 
 body {
+  background: #0000ff url('img/background.jpg') top left;
 	font-family: monospace;
-  	color: #00ff00;
-  	background: #0000ff url('img/microfab.gif') top left;
+  color: #ffffff;
 }
 
 a {
-	color: #ff8000;
+	color: #ED1B24;
+}
+
+.meme {
+  height: 300px;
+  float: center;
+  padding: 5px;
 }
 
 blink {
